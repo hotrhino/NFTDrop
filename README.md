@@ -1,0 +1,1 @@
+example use of thirdweb NFTDrop contract
